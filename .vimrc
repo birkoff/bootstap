@@ -6,6 +6,9 @@ set ruler
 " Height of the command bar
 set cmdheight=2
 
+" display line numbers
+set number
+
 " Ignore case when searching
 set ignorecase
 

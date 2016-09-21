@@ -1,5 +1,6 @@
 # Install and configure VIM
 echo "Install and Configure VIM"
+sudo yum update -y
 sudo yum -y install vim
 cd /opt
 sudo mkdir bootstrap

@@ -3,5 +3,18 @@
 
 # Install dev packages
 brew install wget
-brew cask install google-chrome alfred
-brew cask install iterm2 pycharm-ce slack github visual-studio-code iterm2 sublime-text
+
+# serverless 
+brew install serverless
+
+# Common tools
+brew cask install google-chrome alfred iterm2
+
+# Dev tools
+brew cask install pycharm-ce slack github visual-studio-code sublime-text
+
+# databases 
+brew install mysql
+brew install postgresql
+
+xcode-select --install
